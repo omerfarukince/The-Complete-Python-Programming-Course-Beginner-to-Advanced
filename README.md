@@ -3,9 +3,9 @@
  
 ![Python](https://i.hizliresim.com/Ma6yyN.png "Python")
  
- ### This repository includes lectures for The Complete Python Programming Course: Everything You Need (A Zero to Hero Course) in Udemy.
+ ### This repository includes lectures for The Complete Python Programming Course: (Beginner to Advanced) in Udemy.
 
-You can enroll to this course at a 90% discount by clicking [here](https://www.udemy.com/complete-python-programming-course/?couponCode=GITHUB90OFF). 
+You can enroll to this course at a 90% discount by clicking [here](https://www.udemy.com/complete-python-programming-course-beginner-to-advanced/?couponCode=GITHUB90OFF). 
 
 Purchasing the course grants access to all the screencast videos and the moderated discussion forums!
 
