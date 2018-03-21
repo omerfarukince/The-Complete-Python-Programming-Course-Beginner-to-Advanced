@@ -1,5 +1,4 @@
-# The Complete Python Programming Course: 
-# Everything You Need (A Zero to Hero Course)
+# The Complete Python Programming Course: (Beginner to Advanced)
  
 ![Python](https://i.hizliresim.com/Ma6yyN.png "Python")
  
